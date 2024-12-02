@@ -19,6 +19,14 @@ Rusty-Telephone encodes files into audio signals and transmits them between syst
   - Windows: [Virtual Audio Cable](https://vb-audio.com/Cable/)
   - Linux: [PulseAudio null sink](https://www.freedesktop.org/wiki/Software/PulseAudio/)
 
+## Example
+- Sender:
+* ![image](https://github.com/user-attachments/assets/bf577c6d-49ff-4f96-859d-4866bd985903)
+
+- Receiver:
+* ![image](https://github.com/user-attachments/assets/92da5343-73bf-4a6b-ad9a-685d9bf615bf)
+
+
 ## Installation
 
 1. Clone the repository:
